@@ -24,3 +24,4 @@ I tried changing some parameters, in particular trying to use less steps.
 ## Some test I did
 
 - [What is depth map for the model?](added/1)
+- [Can it really identify by function?](added/2)
