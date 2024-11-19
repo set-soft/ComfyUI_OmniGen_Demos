@@ -27,7 +27,7 @@ Other values:
 - Guidance: 2.5/1.6
 - Seed: 0
 
-[image](1/OmniGen_00044__0_1024x1024_no_prompt.jpg)
+![image](1/OmniGen_00044__0_1024x1024_no_prompt.jpg)
 
 [workflow](1/OmniGen_00044__workflow.json)
 
@@ -38,7 +38,7 @@ Other values:
 - Guidance: 2.5/1.6
 - Seed: 0
 
-[image](1/OmniGen_00042__0_1024x1024_no_prompt.jpg)
+![image](1/OmniGen_00042__0_1024x1024_no_prompt.jpg)
 
 [workflow](1/OmniGen_00042__workflow.json)
 
@@ -51,7 +51,7 @@ Here looks like the model when for a white cup, and then changed its mind ;-)
 - Guidance: 2.5/1.6
 - Seed: 0
 
-[image](1/OmniGen_00043__0_1024x1024_no_prompt.jpg)
+![image](1/OmniGen_00043__0_1024x1024_no_prompt.jpg)
 
 [workflow](1/OmniGen_00043__workflow.json)
 
@@ -64,7 +64,7 @@ To genmerate an image from a prompt 5 steps isn't enough
 - Guidance: 2.5/1.6
 - Seed: 0
 
-[image](1/OmniGen_00041__0_1024x1024_no_prompt.jpg)
+![image](1/OmniGen_00041__0_1024x1024_no_prompt.jpg)
 
 [workflow](1/OmniGen_00041__workflow.json)
 
@@ -80,7 +80,7 @@ It tries to add the arm, but fails
 - Guidance: 2.5/1.6
 - Seed: 0
 
-[image](1/OmniGen_00046__0_512x512_no_prompt.jpg)
+![image](1/OmniGen_00046__0_512x512_no_prompt.jpg)
 
 [workflow](1/OmniGen_00046__workflow.json)
 
@@ -91,7 +91,7 @@ It tries to add the arm, but fails
 - Guidance: 2.5/1.6
 - Seed: 0
 
-[image](1/OmniGen_00045__0_512x512_no_prompt.jpg)
+![image](1/OmniGen_00045__0_512x512_no_prompt.jpg)
 
 [workflow](1/OmniGen_00045__workflow.json)
 
