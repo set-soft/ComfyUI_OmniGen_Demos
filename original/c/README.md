@@ -10,7 +10,7 @@ image_1 What item can be used to see the current time? Please highlight it in bl
 
 image_1:
 
-![image](../../inputs/original/control.jpg)
+![image](../../inputs/original/whatch.jpg)
 
 
 - Steps: 5
