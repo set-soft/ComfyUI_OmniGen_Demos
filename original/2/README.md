@@ -10,7 +10,7 @@ The woman in image_1 waves her hand happily in the crowd
 
 image_1:
 
-![image](../inputs/original/zhang.png)
+![image](../../inputs/original/zhang.png)
 
 - Steps: 25
 - Resolution: 672x1024
