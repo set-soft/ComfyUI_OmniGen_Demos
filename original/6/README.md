@@ -21,7 +21,7 @@ image_2:
 - Resolution: 1024x1024
 - Guidance: 2.5/1.6
 - Seed: 65
-- Workflow: [OmniGen_00055__workflow.json]( OmniGen_00055__workflow.json)
+- Workflow: [OmniGen_00055__workflow.json](OmniGen_00055__workflow.json)
 
 ![image](OmniGen_00055_.png)
 
