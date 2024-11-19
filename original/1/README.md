@@ -9,7 +9,7 @@ A curly-haired man in a red shirt is drinking tea.
 ```
 
 - Steps: 25
-- Resolution: 1024x1024
+- Resolution: 1280x1280
 - Guidance: 2.5/1.6
 - Seed: 0
 - Workflow: [Best_workflow.json](Best_workflow.json)
