@@ -31,7 +31,7 @@ image_3:
 - Seed: 1
 - Workflow: [OmniGen_00066__workflow.json](OmniGen_00066__workflow.json)
 
-![image](OmniGen_00065_.png)
+![image](OmniGen_00066_.png)
 
 With more steps the details are better
 
